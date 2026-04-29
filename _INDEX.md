@@ -8,6 +8,9 @@ PJ-ID: EXP-003
 
 | 日付 | 種別 | モデル | ファイル | ステータス | メモ |
 |------|------|-------|---------|----------|------|
+| 2026-04-29 | 動画生成 | ZeroScope V2 | 2026-04-29_b_roll_office_zeroscope_draft.mp4 | 完了 | 229KB, 24frames, HF Space無料GPU |
+| 2026-04-29 | 動画生成 | ZeroScope V2 | 2026-04-29_ai_instructor_zeroscope_draft.mp4 | 完了 | 106KB, 24frames, HF Space無料GPU |
+| 2026-04-29 | 動画生成 | ZeroScope V2 | 2026-04-29_sns_short_zeroscope_draft.mp4 | 完了 | 167KB, 24frames, HF Space無料GPU |
 | 2026-04-29 | セットアップ | — | — | 完了 | MCP登録・フォルダ構造・スキル作成 |
 | 2026-04-29 | 制作プラン | — | 動画制作プラン_v1.md | 完了 | 3セット8シーンの制作計画 |
 | 2026-04-29 | ブロッカー確認 | — | — | 要対応 | クレジット残高0・プラン選択が必要 |
