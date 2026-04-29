@@ -1,0 +1,17 @@
+# 生成済みバイナリ（容量大のためGit管理外）
+outputs/**/*.mp4
+outputs/**/*.mov
+outputs/**/*.png
+outputs/**/*.jpg
+outputs/**/*.webp
+
+# ただしフォルダ構造は維持
+!outputs/.gitkeep
+!outputs/**/.gitkeep
+
+# macOS
+.DS_Store
+
+# 一時ファイル
+*.tmp
+*.log
